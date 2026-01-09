@@ -1,9 +1,7 @@
 # 🚀 Automated API Testing with Postman CLI & GitHub Actions
 
-![GitHub Actions](https://github.com/Khoi67/api-postman/actions/workflows/postman-api-tests.yml/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Khoi67/api-postman)
-![GitHub repo size](https://img.shields.io/github/repo-size/Khoi67/api-postman)
-![License](https://img.shields.io/badge/license-MIT-green)
+![API Tests](https://github.com/Khoi67/api-postman/actions/workflows/postman-api-tests.yml/badge.svg)
+
 
 Repository này được sử dụng để **tự động hóa kiểm thử API** bằng **Postman CLI** và tích hợp với **GitHub Actions** trong quy trình CI/CD.
 
